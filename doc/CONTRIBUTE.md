@@ -28,4 +28,11 @@ We will need an explanation about:
 - why did you place this material here (in terms of chapter numbering etc.)?
 - why does not this break the coherence of the course?
 
+### What do we use to make our courses? 
 
+We use [typst](https://typst.app/), is a markup-based typesetting system designed to be an alternative to LaTeX. If you 
+are new to those kinds of software see the [tutorial](https://typst.app/docs/tutorial/) or the [guide](https://typst.app/docs/guides/guide-for-latex-users/)
+for LaTeX users.
+
+As for the tool, we recommend using VSC with the [tinymist typst](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist)
+extension.
